@@ -1,7 +1,7 @@
 # Anitas-kitchen
 Anita's Kitchen
 
->Author: Domani Samuel
+>Author: Jude Juma
 >
 >---------------------------
 >
