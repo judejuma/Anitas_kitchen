@@ -21,4 +21,4 @@ Anita's Kitchen</a>
 >
 >---------------------------
 
-&copy; domanisamuel | Credits <a href="http://moringaschool.com/" title="Title">MORINGA SCHOOL</a>
+&copy; Jude Juma | Credits <a href="http://moringaschool.com/" title="Title">MORINGA SCHOOL</a>
