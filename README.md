@@ -16,7 +16,7 @@ Anita's Kitchen
 >
 >---------------------------
 >
->Link to deployed page _(click here)_<a href="https://domanisamuel.github.io/Anitas-kitchen/" title="Title">
+>Link to deployed page _(click here)_<a href="https://github.com/judejuma/Anitas_kitchen/settings" title="Title">
 Anita's Kitchen</a>
 >
 >---------------------------
